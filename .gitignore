@@ -1,0 +1,5 @@
+#tailwind css
+src/tailwind/*.scss
+
+# production
+/build
